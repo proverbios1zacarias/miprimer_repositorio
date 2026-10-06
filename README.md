@@ -53,5 +53,6 @@
 La ecuación famosa es $e=mc^2$ Es muy famosa.
 
 
-
+![Foto1](bcs.jpg)
+![Foto2](gifs-de-cumpleanos.gif)
 
